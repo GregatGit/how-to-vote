@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Trajanus Bricks';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../assets/fonts/TrajanusBricks.ttf'); /* IE9 Compat Modes */
+}
+@font-face {
+  font-family: 'Trajanus Bricks Xtra';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../assets/fonts/TrajanusBricksXtra.ttf'); /* IE9 Compat Modes */
+}
+@font-face {
+  font-family: 'Trajanus Bricks-Inverse';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../assets/fonts/TrajanusBriX-Invers.ttf'); /* IE9 Compat Modes */
+}
+@font-face {
+  font-family: 'Game of Thrones';
+  font-style: normal;
+  font-weight: normal;
+  src:  url('../assets/fonts/Game_of_Thrones.ttf');
+}
+
+h1 {
+  font-family: 'Trajanus Bricks-Inverse';
+}
+
+h2 {
+  font-family: "Trajanus Bricks"
+}
+body {
+  background-color: rgb(102, 95, 91)
+}
