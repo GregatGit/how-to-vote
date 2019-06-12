@@ -18,8 +18,8 @@ And bootstrapped with create-react-app.
 
 It still is far from finished but you can see where it&#39;s headed.
 
-The app needs more stylings, sharing ability and saving data for later use.
-
-Once it&#39;s up and running I&#39;ll put the link here.
+The app is up and running but the stylings are very basic and experimental. 
+I would also like to add other features to make it fun to share and compare.
+https://gregatgit.github.io/how-to-vote/
 
 Greg
