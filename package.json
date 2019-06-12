@@ -2,14 +2,14 @@
   "name": "how-to-vote",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://GregatGit.github.io/how-to-vote",
+  "homepage": "https://gregatgit.github.io/how-to-vote",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "lodash": "^4.17.11",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-redux": "^7.0.3",
-    "react-scripts": "3.0.1",
+    "react-scripts": "^3.0.1",
     "redux": "^4.0.1",
     "redux-promise": "^0.6.0"
   },
