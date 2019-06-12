@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/how-to-vote/static/css/main.1cdceed7.chunk.css",
+    "main.js": "/how-to-vote/static/js/main.9123bf86.chunk.js",
+    "main.js.map": "/how-to-vote/static/js/main.9123bf86.chunk.js.map",
+    "runtime~main.js": "/how-to-vote/static/js/runtime~main.fb6c466b.js",
+    "runtime~main.js.map": "/how-to-vote/static/js/runtime~main.fb6c466b.js.map",
+    "static/js/2.4b18cf0d.chunk.js": "/how-to-vote/static/js/2.4b18cf0d.chunk.js",
+    "static/js/2.4b18cf0d.chunk.js.map": "/how-to-vote/static/js/2.4b18cf0d.chunk.js.map",
+    "index.html": "/how-to-vote/index.html",
+    "precache-manifest.53408ef1c8701e4264bc07fe65965d2b.js": "/how-to-vote/precache-manifest.53408ef1c8701e4264bc07fe65965d2b.js",
+    "service-worker.js": "/how-to-vote/service-worker.js",
+    "static/css/main.1cdceed7.chunk.css.map": "/how-to-vote/static/css/main.1cdceed7.chunk.css.map",
+    "static/media/App.css": "/how-to-vote/static/media/TrajanusBricksXtra.80ec6203.ttf"
+  }
+}
