@@ -1,7 +1,8 @@
 import React, { Component } from 'react'
 
 const myStyle = {
-  width: '60%',
+  width: '100%',
+  opacity: 0.9
 }
 
 class Login extends Component {

@@ -1,8 +1,8 @@
 import React, { Component, Fragment } from 'react'
-import './componets/App.css'
+import './components/App.css'
 
-import Candidates from './componets/Candidates'
-import Login from './componets/Login'
+import Candidates from './components/Candidates'
+import Login from './components/Login'
 
 class App extends Component {
   state = { user: 'none', users: [] }
@@ -23,9 +23,11 @@ class App extends Component {
   render() {
     return (
       <Fragment>
-        <h1 style={{textAlign: 'center'}}>THE IRON THRONE</h1>
+        <h1 style={{ textAlign: 'center' }}>THE IRON THRONE</h1>
         {this.state.user === 'none' ? (
-          <Login func={this.chooseUser} />
+          <div style={{ margin: "15%"}} >
+            <Login func={this.chooseUser} />
+          </div>
         ) : (
           <Candidates redo={this.handleRedo} user={this.state.user} />
         )}
