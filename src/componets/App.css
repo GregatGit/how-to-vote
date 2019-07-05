@@ -28,7 +28,8 @@ h1 {
 }
 
 h2 {
-  font-family: "Trajanus Bricks"
+  font-family: "Trajanus Bricks";
+  text-align: center;
 }
 body {
   background-color: rgb(102, 95, 91)

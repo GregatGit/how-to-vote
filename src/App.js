@@ -6,6 +6,7 @@ import Login from './componets/Login'
 
 class App extends Component {
   state = { user: 'none', users: [] }
+
   chooseUser = name => {
     const theUsers = [...this.state.users]
     if (this.state.users.indexOf(name) > -1) {
@@ -22,7 +23,7 @@ class App extends Component {
   render() {
     return (
       <Fragment>
-        <h1>THE IRON THRONE</h1>
+        <h1 style={{textAlign: 'center'}}>THE IRON THRONE</h1>
         {this.state.user === 'none' ? (
           <Login func={this.chooseUser} />
         ) : (

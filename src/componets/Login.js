@@ -39,12 +39,12 @@ class Login extends Component {
             <button
               style={{ margin: 20 }}
               onClick={() => this.props.func(this.state.name)}
-              className="ui positive button"
+              className="ui button"
             >
               THAT BE I
             </button>
           ) : (
-            <button style={{ margin: 20 }} className="ui positive button">
+            <button style={{ margin: 20 }} className="ui button">
               {message}
             </button>
           )}

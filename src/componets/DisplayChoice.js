@@ -19,8 +19,8 @@ class DisplayChoice extends Component {
   render() {
     return (
       <div>
-        <h3>You </h3>
-        <h2>{this.props.user} </h2>
+        <h2>You </h2>
+        <h2>{this.props.user} of Westeros </h2>
         <h2>Have choosen</h2>
         <div className="ui link items">
           {this.showCandidates(this.props.list)}
