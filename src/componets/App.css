@@ -32,5 +32,7 @@ h2 {
   text-align: center;
 }
 body {
-  background-color: rgb(102, 95, 91)
+  background-color: rgb(102, 95, 91);
+  background: url("https://images-na.ssl-images-amazon.com/images/I/A1A5bjp7HyL._SY679_.jpg")no-repeat center fixed;
+  background-size: cover;
 }
