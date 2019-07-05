@@ -1,6 +1,5 @@
 import React, { Component, Fragment } from 'react'
 import { connect } from 'react-redux'
-//import Candidate from './Candidate'
 import DisplayChoice from './DisplayChoice'
 import CandidateCard from './CandidateCard'
 import { addCandidate, resetCandidates } from '../actions/index'
@@ -37,7 +36,7 @@ class Candidates extends Component {
 
   displayCanidates = candidatesArr => {
     return candidatesArr.map(candidate => {
-      let { name, img, party } = candidate
+      let { name, img, party, details } = candidate
       return (
         <CandidateCard
           choice={() => {
@@ -48,6 +47,7 @@ class Candidates extends Component {
           name={name}
           img={img}
           party={party}
+          details={details}
           position={this.state.ladder[name].position}
         />
       )

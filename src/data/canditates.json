@@ -2,7 +2,8 @@
   {
     "name": "Jon_Snow",
     "house": "Stark",
-    "party": "BSJ",
+    "party": "BTKNP",
+    "details": "Bastard That Know Nothing Party  ",
     "position": 0,
     "img": "http://amazingpict.com/wp-content/uploads/2017/05/jon_snow_game_of_thrones_season_7-1600x900-150x150.jpg"
   },
@@ -10,6 +11,7 @@
     "name": "Daenerys_Targaryen",
     "house": "Targaryen",
     "party": "DUP",
+    "details": "Dragons United Party",
     "position": 0,
     "img": "https://media1.popsugar-assets.com/files/thumbor/a9ilhFHizmWYHUCjfuIKjeWRJvQ/160x160/filters:format_auto-!!-:strip_icc-!!-:sharpen-!1,0,true!-/2015/04/27/878/n/1922283/b3775998_gameofthrones15_27/i/Daenerys-Targaryen-Played-Emilia-Clarke.jpg"
   },
@@ -17,13 +19,15 @@
     "name": "Sansa_Stark",
     "house": "Stark",
     "party": "CRR",
+    "details": "Crazy Redhed Revolution Party",
     "position": 0,
     "img": "https://media1.popsugar-assets.com/files/thumbor/BlicZPaV3Yc22Gg4i3t87ULvits/160x160/filters:format_auto-!!-:extract_cover-!!-:strip_icc-!!-:sharpen-!1,0,true!-/2016/12/28/798/n/41306527/f26f983046788051_sansa/i/Sansa-Stark.gif"
   },
   {
     "name": "Arya_Stark",
     "house": "Stark",
-    "party": "CKG",
+    "party": "SKG",
+    "details": "Secret Killer Girls Party",
     "position": 0,
     "img": "https://cdn.hiptoro.com/wp-content/uploads/2019/04/Arya-Stark-Maisie-Willaims-Google-Trends-Game-of-Thrones-Season-8-180x180.png"
   },
@@ -31,6 +35,7 @@
     "name": "Brandon_'Bran'_Stark",
     "house": "Stark",
     "party": "CBAOFS",
+    "details": "Crows, Bats and other flying Stuff Front",
     "position": 0,
     "img": "https://img.cncenter.cz/img/12/rect160/5668249_hra-o-truny-game-of-thrones-serial-hbo-fotografie-trailer-spoiler-v0.jpg"
   },
@@ -38,13 +43,15 @@
     "name": "Tyrion_Lannister",
     "house": "Lannister",
     "party": "POP",
+    "details": "Pants off Party",
     "position": 0,
     "img": "https://www.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/tyrion-lannister-512x512.jpg/_jcr_content/renditions/cq5dam.web.130.130.jpeg"
   },
   {
     "name": "Davos_Seaworth",
-    "house": "Onions",
+    "house": "Onion",
     "party": "MF",
+    "details": "Missing Fingers Party",
     "position": 0,
     "img": "https://img.buzzfeed.com/buzzfeed-static/static/2015-10/16/18/enhanced/webdr08/enhanced-buzz-13019-1445033297-15.jpg"
   },
@@ -52,6 +59,7 @@
     "name": "Brienne_of_Tarth",
     "house": "Tarth",
     "party": "ATSL",
+    "details": "All the Singles Ladies Party",
     "position": 0,
     "img": "https://media1.popsugar-assets.com/files/thumbor/SQl3SrPht0Bxh5Fi0ddlxE3sJk0/160x160/filters:format_auto-!!-:extract_cover-!!-:strip_icc-!!-:sharpen-!1,0,true!-/2016/12/28/798/n/41306527/19502166de9c0b09_brienne/i/Brienne-Tarth.gif"
   },
@@ -59,6 +67,7 @@
     "name": "Grey_Worm",
     "house": "Unsullied",
     "party": "WMW",
+    "details": "Where's My Wang Party",
     "position": 0,
     "img": "https://i1.wp.com/brainsandcareers.com/wp-content/uploads/2017/05/landscape-1469706129-grey-worm.jpg?w=154&h=154&crop=1"
   }

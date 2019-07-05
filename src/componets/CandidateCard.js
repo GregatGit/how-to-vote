@@ -1,7 +1,7 @@
 import React from 'react'
 import { displayName } from '../helpers/helpers'
 
-const CandidateCard = ({ name, img, party, choice, position }) => {
+const CandidateCard = ({ name, img, party, choice, position, details }) => {
   return (
     <div className="card">
     <div className="content">
@@ -13,7 +13,7 @@ const CandidateCard = ({ name, img, party, choice, position }) => {
         {party}
       </div>
       <div className="description">
-        Elliot requested permission to view your contact details
+        {details}
       </div>
     </div>
     <div className="extra content">
