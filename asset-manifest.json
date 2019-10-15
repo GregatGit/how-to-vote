@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/how-to-vote/static/css/main.b64ce69d.chunk.css",
-    "main.js": "/how-to-vote/static/js/main.f7dd563b.chunk.js",
-    "main.js.map": "/how-to-vote/static/js/main.f7dd563b.chunk.js.map",
+    "main.js": "/how-to-vote/static/js/main.ca6fbf9f.chunk.js",
+    "main.js.map": "/how-to-vote/static/js/main.ca6fbf9f.chunk.js.map",
     "runtime~main.js": "/how-to-vote/static/js/runtime~main.fb6c466b.js",
     "runtime~main.js.map": "/how-to-vote/static/js/runtime~main.fb6c466b.js.map",
     "static/js/2.4b18cf0d.chunk.js": "/how-to-vote/static/js/2.4b18cf0d.chunk.js",
     "static/js/2.4b18cf0d.chunk.js.map": "/how-to-vote/static/js/2.4b18cf0d.chunk.js.map",
     "index.html": "/how-to-vote/index.html",
-    "precache-manifest.eb5eaba087a207e3a2e892546cf92c04.js": "/how-to-vote/precache-manifest.eb5eaba087a207e3a2e892546cf92c04.js",
+    "precache-manifest.cd8ff83cb20abfff5a835bec92baf15b.js": "/how-to-vote/precache-manifest.cd8ff83cb20abfff5a835bec92baf15b.js",
     "service-worker.js": "/how-to-vote/service-worker.js",
     "static/css/main.b64ce69d.chunk.css.map": "/how-to-vote/static/css/main.b64ce69d.chunk.css.map",
     "static/media/App.css": "/how-to-vote/static/media/TrajanusBricksXtra.80ec6203.ttf"
